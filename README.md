@@ -5,7 +5,7 @@ class SoftwareQualityEngineer:
 
     def __init__(self):
         self.name = "Jake Callahan"
-        self.position = "Automation Lead"
+        self.position = "Technical Lead"
         self.team = "Satellite QE"
         self.company = "Red Hat"
         self.title_modifier = "Senior"
