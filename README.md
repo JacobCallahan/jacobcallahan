@@ -8,7 +8,7 @@ class SoftwareQualityEngineer:
         self.position = "Technical Lead"
         self.team = "Satellite QE"
         self.company = "Red Hat"
-        self.title_modifier = "Senior"
+        self.title_modifier = "Principal"
 
     def __repr__(self):
         return " - ".join((self.name, self.position, self.team, self.company))
