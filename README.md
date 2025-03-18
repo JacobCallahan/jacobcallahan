@@ -17,7 +17,7 @@ class SoftwareQualityEngineer:
     def social(self):
         """Contact me easily here:"""
         return {
-            "Twitter": "https://twitter.com/JakeJCallahan",
+            "X": "https://x.com/JakeJCallahan",
             "YouTube": "https://youtube.com/c/JakeCallahan",
         }
 ```
@@ -34,6 +34,10 @@ class SoftwareQualityEngineer:
 
 <a href="https://github.com/JacobCallahan/JacobCallahan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobCallahan&hide=tex,css&&theme=radical&langs_count=6&layout=compact" />
+</a>
+
+<a href="https://github.com/JacobCallahan/Hussh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacobCallahan&repo=Hussh&&theme=radical" />
 </a>
 
 <a href="https://github.com/JacobCallahan/Understanding">
